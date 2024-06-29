@@ -1,4 +1,4 @@
-package com.example.androidproject
+package com.example.socialmedia
 
 import org.junit.Test
 

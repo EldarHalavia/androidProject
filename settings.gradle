@@ -19,6 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "android project"
-include(":app")
- 
+rootProject.name = "Social Media"
+include ':app'
